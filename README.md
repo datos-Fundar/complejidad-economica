@@ -2,15 +2,21 @@
 
 Desarrollo de cálculos varios de complejidad económica.
 
+
+### Metodología
+
 La metodología de este código sigue de cerca la metodolodía de complejidad económica desarrollada en la sección 3 del paper:
 
-Economic complexity and the green economy, Penny Mealy and Alexander Teytelboym, Research Policy, https://doi.org/10.1016/j.respol.2020.103948
+- Economic complexity and the green economy, Penny Mealy and Alexander Teytelboym, Research Policy, https://doi.org/10.1016/j.respol.2020.103948
 
 Cuando nos apartamos de esta metodología lo indicamos en el código, y en los casos correspondientes seguimos de cerca la metodología propuesta en:
 
-The Atlas of Economic Complexity, Hausmann et al (2014)
-The Product Space Conditions the Development of Nations, Hidalgo et al (2007)
+- The Atlas of Economic Complexity, Hausmann et al (2014)
 
+- The Product Space Conditions the Development of Nations, Hidalgo et al (2007)
+
+
+### Uso y descripción del código
 
 El código debe correrse en el orden puesto en el nombre de cada notebook:
 
