@@ -1,9 +1,10 @@
 ## Sitio complejidadeconomicaverde.fund.ar
 
-Procesamiento de los datos para poder ser utilizados en los diversos gráficos del sitio web
+### definiciones_acronimos.csv
+La totalidad de los acronimos utilizados en el sitio se encuentran en español, pero la mayoría de los archivos presentes en este repositorio utilizan los acronimos en inglés. Por lo que en este archivo se encuentran las definiciones en ambos idiomas.
 
 ### country_complexity_rank.csv
-Datos de la OMC de 2018 procesados por Fundar.
+Datos de la OMC procesados por Fundar.
 Se utiliza para el ranking de complejidad de paises, presente en [La Teoria](http://complejidadeconomicaverde.fund.ar/la-teoria/)
 
 ### country_complexity_rank_future.csv
