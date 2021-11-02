@@ -22,7 +22,7 @@ Se utiliza para el histograma de productos verdes, presente en [El Pasado](http:
 ### procesamiento_nodos.ipynb
 Archivos Inputs: 
 - DESCRIPCION PARTIDAS Y SUBPARTIDAS - SUBPARTIDAS (6 DIGITOS).csv (Nombres de los productos en español, de la dirección de Aduanas)
-- green_products-old.csv 
+- green_products-old.csv (generado por green-products-inicial.ipbn)
 - informacion_nodos_2014_2018 - informacion_nodos_2014_2018.csv (Promedio de datos de la OMC, de 2014 a 2018, procesados por Fundar)
 - Tabla 30 Productos.csv (Datos de Fundar)
 - servicios.csv (generado por environmental_services.ipbn)
@@ -47,4 +47,6 @@ El archivo output se utiliza:
 - Dentro de procesamiento_nodos.ipynb
 
 ### green_products_edges.ipynb
+
+### green-products-inicial.ipynb
 
