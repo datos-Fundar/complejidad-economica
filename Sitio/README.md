@@ -19,11 +19,10 @@ Se utiliza para el scatter plot de estrategias de paises, presente en [El Pasado
 Datos procesados por Fundar.
 Se utiliza para el histograma de productos verdes, presente en [El Pasado](http://complejidadeconomicaverde.fund.ar/el-pasado/)
 
-### procesamiento_nodos.ipynb
+### green_products.ipynb
 Archivos Inputs: 
 - DESCRIPCION PARTIDAS Y SUBPARTIDAS - SUBPARTIDAS (6 DIGITOS).csv (Nombres de los productos en español, de la dirección de Aduanas)
-- green_products-old.csv (generado por green-products-inicial.ipynb)
-- informacion_nodos_2014_2018 - informacion_nodos_2014_2018.csv (Promedio de datos de la OMC, de 2014 a 2018, procesados por Fundar)
+- informacion_nodos_2014_2018.csv (Promedio de datos de la OMC, de 2014 a 2018, procesados por Fundar)
 - Tabla 30 Productos.csv (Datos de Fundar)
 - servicios.csv (generado por environmental_services.ipynb)
 
@@ -44,9 +43,15 @@ Archivo Output:
 - servicios.csv
 
 El archivo output se utiliza: 
-- Dentro de procesamiento_nodos.ipynb
+- Dentro de green_products.ipynb
 
 ### green_products_edges.ipynb
 
-### green-products-inicial.ipynb
+Archivos Input:
+- grafo_conexiones_pesos_2014_2018.pkl (tiene la relación entre dos productos con su peso)
+- green_products_2014_2018.pkl (se usa para tener los códigos de producto)
 
+Archivos Output:
+- green_products_edges.csv (es un csv con todas las aristas del grafo relacionando dos productos (su código) y un peso).
+
+Se utiliza para todos los grafos de la página.
