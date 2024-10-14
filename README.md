@@ -1,5 +1,9 @@
 # Complejidad Económica
 
+[![](https://fund.ar/wp-content/uploads/2021/09/DesarrolloVerde2.jpg)](https://www.fund.ar/wp-content/uploads/2021/09/El-Potencial-Productivo-Verde-de-la-Argentina.pdf)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13931731.svg)](https://zenodo.org/doi/10.5281/zenodo.13931731)
+
 ### Fundar + _El Gato y La Caja_
 
 _Una agenda para el crecimiento verde en la Argentina precisa identificar hacia qué sectores y productos deben dirigirse las decisiones de política pública: el análisis basado en los conceptos de complejidad económica y espacio de productos es una herramienta capaz de ofrecer respuestas a esa necesidad, a partir del uso de evidencia cuantitativa_. 
@@ -49,5 +53,17 @@ El código debe correrse en el orden puesto en el nombre de cada _notebook_:
 
 
 
-
+---
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+  &nbsp;
+  <a href="https://fund.ar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/datos-Fundar/fundartools/assets/86327859/6ef27bf9-141f-4537-9d78-e16b80196959">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/datos-Fundar/fundartools/assets/86327859/aa8e7c72-4fad-403a-a8b9-739724b4c533">
+    <img src="fund.ar"></img>
+  </picture>
+</a>
+</div>
 
