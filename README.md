@@ -1,8 +1,8 @@
 # Complejidad Económica
 
 [![](https://fund.ar/wp-content/uploads/2021/09/DesarrolloVerde2.jpg)](https://www.fund.ar/wp-content/uploads/2021/09/El-Potencial-Productivo-Verde-de-la-Argentina.pdf)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13931731.svg)](https://zenodo.org/doi/10.5281/zenodo.13931731)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13931731.svg)](https://zenodo.org/doi/10.5281/zenodo.13931731)
 
 ### Fundar + _El Gato y La Caja_
 
@@ -46,10 +46,10 @@ El código debe correrse en el orden puesto en el nombre de cada _notebook_:
 4. [Glosario](https://fund.ar/publicacion/glosario-ppv/)
 
 
-## Relacionado
+## Trabajos relacionados
 
-1. [**Panorama de la Complejidad Económica de la Provincia de Córdoba**](https://fund.ar/wp-content/uploads/2023/04/Fundar_Panorama_Complejidad_Economica_Cordoba-1.pdf). Feole, M.; Gutman, M.; Lema Cuesta, C.; y Pezzarini, L. (2023)
-2. [**Panorama de la Complejidad Económica del Municipio de Córdoba**](https://fund.ar/wp-content/uploads/2023/05/Fundar_Panorama_Complejidad_Economica_Municipio_Cordoba-2.pdf)  . Luvini, P.; Martin, R.; Cejas, C. y Sbodio, J. M. (2023)
+- [**Panorama de la Complejidad Económica de la Provincia de Córdoba**](https://fund.ar/wp-content/uploads/2023/04/Fundar_Panorama_Complejidad_Economica_Cordoba-1.pdf). Feole, M.; Gutman, M.; Lema Cuesta, C.; y Pezzarini, L. (2023)
+- [**Panorama de la Complejidad Económica del Municipio de Córdoba**](https://fund.ar/wp-content/uploads/2023/05/Fundar_Panorama_Complejidad_Economica_Municipio_Cordoba-2.pdf)  . Luvini, P.; Martin, R.; Cejas, C. y Sbodio, J. M. (2023)
 
 
 
