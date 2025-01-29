@@ -1,8 +1,8 @@
 # Complejidad Económica
 
 [![](https://fund.ar/wp-content/uploads/2021/09/DesarrolloVerde2.jpg)](https://www.fund.ar/wp-content/uploads/2021/09/El-Potencial-Productivo-Verde-de-la-Argentina.pdf)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13931731.svg)](https://zenodo.org/doi/10.5281/zenodo.13931731)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ### Fundar + _El Gato y La Caja_
 
