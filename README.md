@@ -1,4 +1,4 @@
-# Complejidad Económica
+# Complejidad Económica Verde
 
 [![](https://fund.ar/wp-content/uploads/2021/09/DesarrolloVerde2.jpg)](https://www.fund.ar/wp-content/uploads/2021/09/El-Potencial-Productivo-Verde-de-la-Argentina.pdf)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13931731.svg)](https://zenodo.org/doi/10.5281/zenodo.13931731)
